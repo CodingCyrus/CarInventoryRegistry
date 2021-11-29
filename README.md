@@ -1,2 +1,2 @@
 # CarInventoryRegistry
-OOP Java Program that creates table of car inventory from user input
+OOP Java Program that creates car inventory table from user input
